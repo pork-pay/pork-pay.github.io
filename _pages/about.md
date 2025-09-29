@@ -1,7 +1,5 @@
 
 
-# About Me
-
 Hello! I am **Xiaoliang Wang**, a graduate student at the College of Information Science and Electronic Engineering, Zhejiang University.  
 My research interests include **acoustic localization and machine learning**.  
 
