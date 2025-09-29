@@ -5,9 +5,10 @@ title                    : "Xiaoliang Wang - Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Xiaoliang Wang"
 description              : &description "Graduate student at Zhejiang University, focusing on electronics and computer science"
-url                      : https://porkpay.github.io
-baseurl                  : ""
-repository               : "porkpay/porkpay.github.io"
+url: "https://pork-pay.github.io"
+baseurl: ""
+repository: "pork-pay/pork-pay.github.io"
+
 
 # Site Author
 author:
