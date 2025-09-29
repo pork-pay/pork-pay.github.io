@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Xiaoliang Wang | Academic Personal Website"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 # About Me
 
