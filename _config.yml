@@ -15,7 +15,7 @@ author:
   avatar           : "photo.png"   # 替换成你的照片文件名
   name             : "Xiaoliang Wang"
   pronouns         : "he/him"
-  bio              : "Graduate student at the School of Information and Electronics, Zhejiang University. Research interests include UWB positioning, acoustic detection, computer vision, and AI model fine-tuning."
+  bio              : "Graduate student at the School of Information and Electronics, Zhejiang University. Research interests include UWB positioning, acoustic detection, and machine learning."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : 
