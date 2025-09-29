@@ -14,7 +14,7 @@ repository: "pork-pay/pork-pay.github.io"
 author:
   avatar           : "photo.png"   # 替换成你的照片文件名
   name             : "Xiaoliang Wang"
-  bio              : "Graduate student at the School of Information and Electronics, Zhejiang University. Research interests include UWB positioning, acoustic detection, and machine learning."
+  bio              : 
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : 
