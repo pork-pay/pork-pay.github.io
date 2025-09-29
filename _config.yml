@@ -12,7 +12,7 @@ repository: "pork-pay/pork-pay.github.io"
 
 # Site Author
 author:
-  avatar           : "photo.png"   # 替换成你的照片文件名
+  avatar           : "image.png"   # 替换成你的照片文件名
   name             : "Xiaoliang Wang"
   bio              : 
   location         : "Hangzhou, China"
