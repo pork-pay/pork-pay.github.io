@@ -10,11 +10,15 @@ I obtained my B.Eng. degree in Electronic Science and Technology from Zhejiang U
 
 ---
 
+## News
+- **[09/2025]** · One paper is accepted by Journal Of Energy Storage.  
+- **[09/2025]** · One conference paper is accepted by DCASE 2025! It's my first paper.  
+---
+
 ## Education
 - **Zhejiang University** · B.Eng. in Electronic Science and Technology (2020.09–2024.06)  
 - **Tokyo Institute of Technology** · Exchange Program in Computer Architecture (2023.08-2023.09)  
 - **Zhejiang University** · M.Eng. Student in Information Science and Electronic Engineering (2024–2027.06, expected)  
-
 ---
 
 ## Research & Projects
