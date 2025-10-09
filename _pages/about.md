@@ -12,7 +12,8 @@ I obtained my B.Eng. degree in Electronic Science and Technology from Zhejiang U
 
 ## News
 - **[09/2025]** · One paper is accepted by Journal Of Energy Storage.  
-- **[09/2025]** · One conference paper is accepted by DCASE 2025! It's my first paper.  
+- **[09/2025]** · One conference paper is accepted by DCASE 2025! It's my first paper.
+- 
 ---
 
 ## Education
