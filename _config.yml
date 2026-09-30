@@ -21,7 +21,7 @@ author:
   email            : "wxl989856@gmail.com"  
 
   # Academic websites
-  googlescholar    : ""   # 如果有谷歌学术主页，把链接填在这里
+  googlescholar    : "https://scholar.google.com/citations?user=OiojlD0AAAAJ&hl=zh-CN"   # 如果有谷歌学术主页，把链接填在这里
   github           : "xiaoliangwang"   # 替换成你的 GitHub 用户名
 
 
