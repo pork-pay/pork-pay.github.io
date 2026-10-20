@@ -176,6 +176,3 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
-include:
-  - _pages/cv.md
-  - _pages/publications.html
