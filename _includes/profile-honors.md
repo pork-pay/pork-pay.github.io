@@ -1,0 +1,4 @@
+- 🏆 Zhejiang Provincial Government Scholarship
+- 🏅 Zhejiang University Second-Class and Third-Class Scholarships
+- 🎓 Outstanding Student & Outstanding Graduate, Zhejiang University
+- 🥉 National Third Prize, Alipay Mini Program Development Competition

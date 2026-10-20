@@ -1,0 +1,4 @@
+- **LLM/VLM post-training:** SFT, self-training, trajectory repair, recursive self-improvement, synthetic data, and agentic RL.
+- **Medical AI:** medical VQA, ECG interpretation, evidence-grounded reasoning, and multimodal evaluation.
+- **Engineering:** PyTorch, Transformers, Qwen-series models, distributed MoE training, ms-swift, and verl.
+- **Signals:** ECG and acoustic processing, TDOA/GCC localization, anomaly detection, and time-series modeling.

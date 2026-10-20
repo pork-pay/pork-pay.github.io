@@ -1,56 +1,31 @@
+I am **Xiaoliang Wang**, a master's student in Electronic Science and Technology at **Zhejiang University** and a research intern with **Ant Group's Afu Multimodal team**.
 
+My research focuses on **medical AI, multimodal reasoning, and recursive self-improvement (RSI)**. I study how model failures can guide reasoning repair, verified data synthesis, and iterative post-training.
 
-Hello! I am **Xiaoliang Wang**, a graduate student at the College of Information Science and Electronic Engineering, Zhejiang University.  
-My research interests include **acoustic localization and machine learning**.  
+🩺 Medical multimodal reasoning &nbsp; · &nbsp; 🔁 Self-improvement & data evolution &nbsp; · &nbsp; 📈 Medical signal understanding
 
-I obtained my B.Eng. degree in Electronic Science and Technology from Zhejiang University in 2024, where I was recognized as an *Excellent Graduate*. I am now pursuing my master’s degree through direct admission, under the supervision of Professor Jin Hao. I am seeking collaborative mentoring and internship opportunities.
+[📧 Email](mailto:wxl989856@gmail.com) · [🎓 Google Scholar](https://scholar.google.com/citations?user=OiojlD0AAAAJ) · [💻 GitHub](https://github.com/pork-pay) · [📄 CV](/cv/)
 
-- 📱 Phone: +86 17300989856  
-- 📧 Email: [wxl989856@gmail.com](mailto:wxl989856@gmail.com)  
+## 🗞️ Updates
 
----
+- **Oct 2026:** MedEvo and ECG-RSI submitted to ICLR 2027; papers and project pages are available below.
+- **Jun 2026:** Joined Ant Group's Afu Multimodal team as a research intern.
+- **Mar–May 2026:** Research internship in agentic search at Simplex AI.
 
-## News
-- **[09/2025]** · One paper is accepted by Journal Of Energy Storage.  
-- **[09/2025]** · One conference paper is accepted by DCASE 2025! It's my first paper.
-- 
----
+## 📚 Publications & Manuscripts
 
-## Education
-- **Zhejiang University** · B.Eng. in Electronic Science and Technology (2020.09–2024.06)  
-- **Tokyo Institute of Technology** · Exchange Program in Computer Architecture (2023.08-2023.09)  
-- **Zhejiang University** · M.Eng. Student in Information Science and Electronic Engineering (2024–2027.06, expected)  
----
+{% include profile-publications.md %}
 
-## Research & Projects
-- **Acoustic Localization and Acoustic Imaging of High-Voltage Discharges** (State Grid Project, 2024.06–2026.02, expected)  
-  - Developed acoustic sensor array methods including beamforming and TDOA for detecting and localizing abnormal sounds in energy storage stations.  
-  - Manuscript under review: *Detection and Localization of Early-Stage Abnormal Sounds in Lithium-ion Battery Thermal Runaway*  
+## 💼 Research Internships
 
-- **Rapid Detection of Moisture Content in Lithium-Ion Batteries** (Undergraduate Thesis, 2023.09–2024.04)  
+{% include profile-experience.md %}
 
-- **Passive Localization Using UWB Channel Impulse Response** (Scientific research training, 2022.03–2023.05)  
-  - Achieved ~10 cm positioning accuracy using UWB CIR analysis combined with particle filtering.  
+## 🎓 Education
 
-- **Fine-tuning Large Language Models** (Course Project, 2024.10–2024.12)  
-  - Fine-tuned Qwen1.5-1.8B-Chat using LLaMa-Factory and QLoRA, enabling model self-recognition capability.  
+{% include profile-education.md %}
 
----
+## 🏆 Honors & Awards
 
-## Competitions
-- **Alipay Mini Program Developer Competition** – 3rd Prize, National (2023.11–2024.05)  
-- **ISEE–Rockchip Mobile Innovation Contest, Zhejiang University** (2023.03–2023.05) – Team Leader  
-- **National Energy Saving & Emission Reduction Competition** – 3rd Prize (2022.11–2023.06)  
-- **Zhejiang Province Undergraduate Physics Innovation Contest** – 2nd Prize (2022.01)  
+{% include profile-honors.md %}
 
----
-
-## Honors & Awards
-- Zhejiang Provincial Government Scholarship  
-- Zhejiang University 2nd- and 3rd-class Scholarships  
-- Excellent Graduate of Zhejiang University  
-
-
----
-
-More details can be found in the navigation bar: 📄 [CV](/cv), 📚 [Publications](/publications), 🎤 [Talks](/talks).
+I welcome research collaborations in medical AI, multimodal reasoning, and self-improving models. [Get in touch](mailto:wxl989856@gmail.com).

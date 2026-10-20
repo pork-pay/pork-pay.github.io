@@ -1,64 +1,36 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Medical AI · Multimodal Reasoning · Recursive Self-Improvement<br>
+[Email](mailto:wxl989856@gmail.com) · [GitHub](https://github.com/pork-pay)<br>
+Updated October 2026
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Education
+{% include profile-education.md %}
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 📚 Publications & Manuscripts
+{% include profile-publications.md %}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🔬 Research Experience
+{% include profile-research.md %}
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 💼 Research Internships
+{% include profile-experience.md %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🛠️ Research Skills
+{% include profile-skills.md %}
+
+## 🏆 Honors & Awards
+{% include profile-honors.md %}
+
+## 🧭 Research Interests
+
+- **Recursive self-improvement and data evolution:** failure-driven supervision, adaptive synthesis and selection, and iterative post-training.
+- **Medical multimodal reasoning:** evidence-grounded reasoning, trajectory repair, and reliable multimodal supervision.
+- **Medical signal and image understanding:** visual grounding, ECG interpretation, and multimodal representations.

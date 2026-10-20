@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Xiaoliang Wang - Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Xiaoliang Wang"
-description              : &description "Graduate student at Zhejiang University, focusing on electronics and computer science"
+description              : &description "Medical AI, multimodal reasoning, and recursive self-improvement at Zhejiang University"
 url: "https://pork-pay.github.io"
 baseurl: ""
 repository: "pork-pay/pork-pay.github.io"
@@ -14,7 +14,7 @@ repository: "pork-pay/pork-pay.github.io"
 author:
   avatar           : "image.png"   # 替换成你的照片文件名
   name             : "Xiaoliang Wang"
-  bio              : 
+  bio              : "Medical AI · Multimodal Reasoning · RSI"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : 
@@ -22,7 +22,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=OiojlD0AAAAJ&hl=zh-CN"   # 如果有谷歌学术主页，把链接填在这里
-  github           : "xiaoliangwang"   # 替换成你的 GitHub 用户名
+  github           : "pork-pay"   # 替换成你的 GitHub 用户名
 
 
 # Publication Category
@@ -175,3 +175,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+
+include:
+  - _pages/cv.md
+  - _pages/publications.html
