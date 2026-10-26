@@ -4,7 +4,7 @@ My research focuses on **medical AI, multimodal reasoning, and recursive self-im
 
 🩺 Medical multimodal reasoning &nbsp; · &nbsp; 🔁 Self-improvement & data evolution &nbsp; · &nbsp; 📈 Medical signal understanding
 
-[📧 Email](mailto:wxl989856@gmail.com) · [🎓 Google Scholar](https://scholar.google.com/citations?user=OiojlD0AAAAJ) · [💻 GitHub](https://github.com/pork-pay) · [📄 CV](/cv/)
+[📧 Email](mailto:wxl989856@gmail.com) · [🎓 Google Scholar](https://scholar.google.com/citations?user=OiojlD0AAAAJ) · [💻 GitHub](https://github.com/pork-pay) · [📄 CV](/cv/) · [Download PDF](/files/Xiaoliang_Wang_CV.pdf)
 
 ## 🗞️ Updates
 
