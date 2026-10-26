@@ -11,6 +11,8 @@ Medical AI · Multimodal Reasoning · Recursive Self-Improvement<br>
 [Email](mailto:wxl989856@gmail.com) · [GitHub](https://github.com/pork-pay)<br>
 Updated October 2026
 
+[📄 Download CV (PDF)](/files/Xiaoliang_Wang_CV.pdf)
+
 ## 🎓 Education
 {% include profile-education.md %}
 
